@@ -2,6 +2,8 @@
 
 # Resilience of Criminogenic systems during COVID-19
 
+
+
 Borrion, H., Kurland, J., Tilley, N., & Chen, P. (2020). Measuring the resilience of criminogenic ecosystems to global disruption: A case-study of COVID-19 in China. Plos one, 15(10) [Open Access] (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240077)
 
 You can use the [editor on GitHub](https://github.com/criminexus/criminexus.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
