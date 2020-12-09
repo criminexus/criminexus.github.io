@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hervé Borrion - Research Website
 
 You can use the [editor on GitHub](https://github.com/criminexus/criminexus.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
