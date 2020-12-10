@@ -15,7 +15,7 @@ Our team support police forces in adapting their strategies during the COVID cri
 ![Image](./projects.png)
 
 ### Resilience Framework
-<img src="./Resilience.png" width="48">
+<img src="./Resilience.png" width="148">
 
 Borrion, H., Kurland, J., Tilley, N., & Chen, P. (2020). Measuring the resilience of criminogenic ecosystems to global disruption: A case-study of COVID-19 in China. Plos one, 15(10) [Open Access](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240077)
 
