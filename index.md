@@ -21,10 +21,6 @@ December 2020
 
 Borrion, H., Kurland, J., Tilley, N., & Chen, P. (2020). Measuring the resilience of criminogenic ecosystems to global disruption: A case-study of COVID-19 in China. Plos one, 15(10) [Open Access](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240077)
 
-### Twitter
-
-<img src="./logo-twitter-png-47486.png" data-canonical-src="https://twitter.com/criminexus/" width="50" height="50" /> @criminexus/
-
 ### Collaborators
 
 -Dr Justin Kurland
@@ -33,6 +29,7 @@ Borrion, H., Kurland, J., Tilley, N., & Chen, P. (2020). Measuring the resilienc
 -Ms Juliana Quintero Gomez
 
 
-### Contact
- 
+### Twitter
+
+<img src="./logo-twitter-png-47486.png" data-canonical-src="https://twitter.com/criminexus/" width="50" height="50" /> @criminexus/
 h.borrion@ucl.ac.uk
