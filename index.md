@@ -4,8 +4,7 @@ We develop and apply sophisticated data analytical tools to inform policing stra
 
 ### Latest update
 
-December 2020
-- [x] Presentation, National Police of Colombia
+- December 2020: Presentation, National Police of Colombia
  
 
 ### Projects
