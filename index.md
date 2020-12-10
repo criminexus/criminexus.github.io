@@ -25,6 +25,8 @@ Borrion, H., Kurland, J., Tilley, N., & Chen, P. (2020). Measuring the resilienc
 
 ![Image](./logo-twitter-png-47486.png | width=50)
 
+<img src="./logo-twitter-png-47486.png" data-canonical-src="./logo-twitter-png-47486.png" width="200" height="400" />
+
 https://twitter.com/criminexus/
 
 ### Collaborators
