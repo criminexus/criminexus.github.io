@@ -1,6 +1,6 @@
 # Resilience of Criminogenic systems during COVID-19
 
-Our main purpose is to support police forces in adapting their strategies during the COVID crisis. Our recommendations are based on a social-ecological resilience framework, and sophisticated data analysis tools used to understand:
+Our team support police forces in adapting their strategies during the COVID crisis. The approach underpinning our work is based on a social-ecological resilience framework and state-of-the-art analysis tools. Our evidence-based recommendations address very practical points, including:
 - [x] how crime is evolving during the COVID-19 crisis,
 - [x] what problem police should focus on,
 - [x] where police presence should be concentrated.
