@@ -1,6 +1,9 @@
 # Resilience of Criminogenic systems during COVID-19
 
-We develop and apply sophisticated data analytical tools to inform policing strategies. Our current focus is on understanding how crime is evolving during the COVID-19 crisis.  
+Our main purpose is to support police forces in adapting their strategies during the COVID crisis. This involves developing and applying sophisticated data analytical tools to understand:
+- [x] how crime is evolving during the COVID-19 crisis,
+- [x] what problem police should focus on,
+- [x] where police presence should be concentrated.
 
 ### Latest update
 
