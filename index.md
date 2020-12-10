@@ -25,7 +25,7 @@ Borrion, H., Kurland, J., Tilley, N., & Chen, P. (2020). Measuring the resilienc
 - People's Public Security University of China
 - [National Police of Colombia](https://www.policia.gov.co/)
 - [Global Initiative](https://globalinitiative.net/)
-- [National Police Agency (Japan)](http://npa.go.jp)
+- [National Police Agency (Japan)](http://www.npa.go.jp)
 - [Malta Police Force](https://pulizija.gov.mt/)
 
 
