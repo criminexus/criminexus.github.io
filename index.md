@@ -1,6 +1,6 @@
 # Resilience of Criminogenic systems during COVID-19
 
-Our main purpose is to support police forces in adapting their strategies during the COVID crisis. This involves developing and applying sophisticated data analytical tools to understand:
+Our main purpose is to support police forces in adapting their strategies during the COVID crisis. This involves developing and applying sophisticated data analysis tools to understand:
 - [x] how crime is evolving during the COVID-19 crisis,
 - [x] what problem police should focus on,
 - [x] where police presence should be concentrated.
