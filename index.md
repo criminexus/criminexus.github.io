@@ -5,7 +5,7 @@ Our team support police forces in adapting their strategies during the COVID cri
 - [x] what problem police should focus on,
 - [x] where police presence should be concentrated.
 
-### Latest update
+### Latest Update
 
 - December 2020: Presentation, National Police of Colombia
  
