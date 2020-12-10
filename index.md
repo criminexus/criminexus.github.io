@@ -1,6 +1,6 @@
 # Resilience of Criminogenic systems during COVID-19
 
-Our team support police forces in adapting their strategies during the COVID crisis. The approach underpinning our work is based on a social-ecological resilience framework and state-of-the-art analysis tools. Our evidence-based recommendations address very practical points, including:
+Our team support police forces in adapting their strategies during the COVID crisis. Our work is underpinned by a social-ecological resilience framework and state-of-the-art analysis tools. In practice, we adopt a collaborative, problem-oriented approach to generate evidence and understand:
 - [x] how crime is evolving during the COVID-19 crisis,
 - [x] what problem police should focus on,
 - [x] where police presence should be concentrated.
