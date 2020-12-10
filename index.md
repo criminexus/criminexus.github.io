@@ -10,7 +10,7 @@ Our main purpose is to support police forces in adapting their strategies during
 - December 2020: Presentation, National Police of Colombia
  
 
-### Projects
+### Global Monitor
 
 ![Image](./projects.png)
 
