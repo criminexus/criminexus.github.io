@@ -10,7 +10,7 @@ December 2020
 
 ### Projects
 
-![Image](./projects.png)
+![Image](./projects.png| width=50)
 
 ### Presentations
 
@@ -23,7 +23,7 @@ Borrion, H., Kurland, J., Tilley, N., & Chen, P. (2020). Measuring the resilienc
 
 ### Twitter
 
-![Image](./logo-twitter-png-47486.png)
+![Image](./logo-twitter-png-47486.png| width=50)
 
 https://twitter.com/criminexus/
 
