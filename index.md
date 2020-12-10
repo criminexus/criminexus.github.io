@@ -25,7 +25,11 @@ Borrion, H., Kurland, J., Tilley, N., & Chen, P. (2020). Measuring the resilienc
 
 ### Partners
 
--National Police of Colombia
+-[National Police of Colombia](https://www.policia.gov.co/)
+-People's Public Security University of China
+-[Malta Police Force](https://pulizija.gov.mt/)
+-[Global Initiative](
+
 
 
 ### Twitter
